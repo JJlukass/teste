@@ -1,0 +1,24 @@
+{
+  "name": "project-1.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.14.0",
+    "axios": "^1.2.2",
+    "better-sqlite3": "^8.0.1",
+    "discord-html-transcripts": "^3.1.2",
+    "discord-logs": "^2.2.1",
+    "discord.js": "^14.16.3",
+    "glob": "^8.0.3",
+    "moment": "^2.29.4",
+    "quick.db": "^9.0.8"
+  }
+}

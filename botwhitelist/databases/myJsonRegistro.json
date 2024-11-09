@@ -1,0 +1,8 @@
+{
+    "ticketConfig": {
+        "imagem": "https://media.discordapp.net/attachments/1301307741691838496/1303113339374800926/BOT.png?ex=672fd85e&is=672e86de&hm=1abbde4326c3c3ddf3743656e215e1abad12199ffc668fb80cc8f81970b097d1&=&format=webp&quality=lossless&width=350&height=350",
+        "texto": "teste",
+        "mensagem": "teste",
+        "cor": "#ff0000"
+    }
+}
